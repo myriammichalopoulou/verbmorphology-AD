@@ -1,5 +1,4 @@
-# verbmorphology-AD
-Master's Thesis
+# Verb Morphology Processing in Individuals with Alzheimer’s Disease
 
 Abstract 
 Describe your data
