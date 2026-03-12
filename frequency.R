@@ -1,3 +1,13 @@
+# Complete reset for an R session, clearing all variables and unloading all packages
+
+rm(list = ls(all = TRUE))
+lapply(names(sessionInfo()$otherPkgs), function(pkgs)
+  detach(
+    paste0('package:', pkgs),
+    character.only = T,
+    unload = T,
+    force = T))
+
 # Load necessary packages
 
 library("readr")
@@ -569,3 +579,4 @@ full_dataset <- bind_rows(dataset, fillers)
 # Save the final dataset
 
 write_csv(full_dataset, "C:/Users/myria/Downloads/Thesis/Experiment/dataset.csv")
+
