@@ -1,0 +1,30 @@
+﻿Participant ID;Sex;Diagnosis;Age;Hand Dominance;Years of Education;Bilingualism;Foreign Languages;Hearing Impairment;Comorbidities;Date of onset;Location;MMSE;DSF;DSB;Group
+1;male;Alzheimer's Disease, F00;79;left-handed;9;no;no;no;Hypertension, Psychosis, Arthritis;01.01.2023;Alzheimer Athens;17;5;4;dementia
+2;male;Alzheimer's Disease, F00;75;right-handed;15;no;yes;yes;Hypertension, Cardiovascular disease;01.01.2023;Alzheimer Athens;22;8;1;dementia
+3;female;Alzheimer's Disease, F00;84;right-handed;6;no;yes;yes;Hypertension, Depression, Cardiac arrhythmia, Dyslipidemia, Arthritis;01.01.2015;Alzheimer Athens;23;5;5;dementia
+4;female;Alzheimer's Disease, F00;89;right-handed;16;no;yes;yes;Past medical history: Arterial hypertension, Dyslipidemia, Chronic lymphocytic leukemia, Subarachnoid hemorrhage 40 years ago, medication: Thyrohormone, Cozaar, Ebixa 10 mg×2, Lercadip, Flecarythm, Grosera, Vesicare, Vitamin D3;from 2022;Alzheimer Athens;22;7;8;dementia
+5;female;Alzheimer's Disease, F00;69;right-handed;12;no;yes;no;Depression, Dyslipidemia, Vitamin B12 supplement – borderline;01.01.2023;Alzheimer Athens;22;10;4;dementia
+6;male;no;71;right-handed;12;no;no;no;no;NA;private residence;29;7;8;control
+7;female;Alzheimer's Disease, F00;86;right-handed;12;no;yes;no;Hypertension, Dyslipidemia, Cardiac arrhythmia – Pacemaker;01.11.2023;Alzheimer Athens;20;6;4;dementia
+8;female;Alzheimer's Disease, F00;78;right-handed;6;no;no;no;Depression, Thyroid disease;01.01.2025;Alzheimer Athens;21;6;1;dementia
+9;female;Unspecified Dementia, F03;78;right-handed;17;no;yes;yes;Hypertension;01.10.2022;Alzheimer Athens;23;10;8;dementia
+10;female;Unspecified Dementia, F03;58;right-handed;14;no;yes;no;Depression;01.01.2020;Alzheimer Athens;25;6;5;dementia
+11;male;Alzheimer's Disease, F00;76;right-handed;19;no;yes;no;Depression, Hypertension, Cardiac arrhythmia;01.02.2023;Alzheimer Athens;26;7;6;dementia
+12;female;Alzheimer's Disease, F00;76;right-handed;6;no;no;no;Hypertension, Dyslipidemia, Thyroid disease;01.05.2016;Alzheimer Athens;17;7;1;dementia
+13;female;Alzheimer's Disease, F00;81;right-handed;14;no;no;no;Hypertension, Dyslipidemia, Thyroid disease, Depression, Antipsychotic medication;01.06.2020;Alzheimer Athens;14;8;6;dementia
+14;female;Alzheimer's Disease, F00;85;right-handed;9;no;yes;no;Diabetes, Dyslipidemia, Thyroid disease;01.02.2021;Alzheimer Athens;18;7;2;dementia
+15;male;Unspecified Dementia, F03;63;right-handed;16;no;yes;no;Hypertension, Thyroid disease, Depression;01.03.2024;Alzheimer Athens;29;6;4;dementia
+16;male;Alzheimer's Disease, F00;61;right-handed;12;no;yes;yes;Dyslipidemia, Chronic Obstructive Pulmonary Disease (COPD);01.01.2023;Alzheimer Athens;26;8;9;dementia
+17;female;Alzheimer's Disease, F00;80;right-handed;12;no;no;yes;Hypertension, Chronic Obstructive Pulmonary Disease (COPD), Cardiac arrhythmia;01.10.2017;Alzheimer Athens;27;6;4;dementia
+18;female;Alzheimer's Disease, F00;81;right-handed;4;no;no;no;Hypertension;01.01.2023;Alzheimer Athens;14;3;0;dementia
+19;male;Alzheimer's Disease, F00;76;right-handed;6;no;no;yes;Hypertension, Depression, Cancer;25.06.2020;Alzheimer Athens;27;7;6;dementia
+20;female;no;60;right-handed;16;no;yes;yes;no;NA;private residence;30;7;5;control
+21;male;no;61;left-handed;14;no;yes;no;no;NA;private residence;30;8;10;control
+22;female;Alzheimer's Disease, F00;75;right-handed;9;no;no;no;Hypertension;25.10.2023;Alzheimer Athens;22;5;6;dementia
+23;female;Alzheimer's Disease, F00;85;right-handed;6;no;no;no;Depression, Hypertension, Diabetes, Dyslipidemia, Thyroid disease;29.05.2020;Alzheimer Athens;15;9;0;dementia
+24;female;Alzheimer's Disease, F00;85;right-handed;6;no;no;yes;She has a referral – a medical examination has not been done yet, in the upcoming period;;Alzheimer Athens;17;6;5;dementia
+25;male;Alzheimer's Disease, F00;77;left-handed;6;no;no;yes;Diabetes, Arterial Hypertension, Dyslipidemia, Coronary Artery Disease – Myocardial Infarction, Chronic Obstructive Pulmonary Disease or other pulmonary disease;01.01.2025;Alzheimer Athens;21;6;1;dementia
+26;female;no;58;right-handed;13;no;yes;no;no;NA;private residence;28;7;8;control
+27;female;no;62;right-handed;16;no;yes;no;no;NA;private office;30;11;10;control
+28;female;no;92;right-handed;6;no;no;yes;no;NA;private residence;20;3;4;control
+29;male;no;61;right-handed;9;no;no;no;no;NA;private residence;30;7;8;control
