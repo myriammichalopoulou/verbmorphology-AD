@@ -21,11 +21,9 @@ Sentence: a sample sentence illustrating the verb’s use
 
 ### Data
 - Written corpora CSVs: wikipedia_2021.csv, web_2011.csv, web_2015.csv, wikipedia_2016.csv, news_2019.csv, news_2020.csv, news_2021.csv, news_2022.csv, news_2023.csv, news_2024.csv
-
 Each file contains verb tokens from a specific source and year, with counts of occurrences.
 
 - Spoken dataset CSV: spoken_dataset.csv
-
 Contains verb tokens from transcribed spoken Greek, with counts of occurrences.
 
 ### Data Processing
@@ -46,15 +44,16 @@ The dataset consists of experimental results from a PCIbex study examining gramm
 
 ### Data
 
-Experimental results CSV: results_original.csv
+- Experimental results CSV: results_original.csv
 Columns:
 1. Participant.ID: unique participant identifier
 2. Token: verb form
 3. Condition: “grammatical” or “ungrammatical”
 4. Value: participant’s response (“Σωστό” / “Λάθος”)
 5. Trial.Type, PennElementName, and other technical columns from PCIbex
-6. Participant demographics CSV: participants.csv
-7. Age, Sex, Years.of.Education, Diagnosis, Bilingualism, Hearing.Impairment, Hand.Dominance, MMSE, DSF, DSB, etc.
+
+- Participant demographics CSV: participants.csv
+Columns: Age, Sex, Years.of.Education, Diagnosis, Bilingualism, Hearing.Impairment, Hand.Dominance, MMSE, DSF, DSB, etc.
 
 ### Data Processing
 1. Reset R session
